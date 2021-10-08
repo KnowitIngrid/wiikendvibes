@@ -4,14 +4,20 @@ body {
 
 .content-wrap {
   width: 800px;
-  margin: 200px auto;
+  margin: 100px auto;
 }
 
 h1 {
   font-size: 80px;
   color: rgb(7, 155, 153);
+  margin: 0;
 }
 
 h2 {
   font-size: 50px;
+}
+
+img {
+  height: 600px;
+  margin: 0;
 }
